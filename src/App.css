@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.Navbar {
+  /* 10vh = prende 1/10 dell'altezza della pagina */
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #444;
+  color: #fff;
+}
+
+.Links {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  width: 20%;
+}
